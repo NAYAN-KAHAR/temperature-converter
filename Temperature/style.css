@@ -1,0 +1,42 @@
+			body{
+
+				background-color: whitesmoke;
+			}
+			h1{
+				text-align: center;
+				margin: auto;
+				font-family: monospace;
+				font-size: 30px;
+				color: darkslateblue;
+			}
+			.div1{	
+				margin: auto;
+				padding: 00px;
+				border: 2px solid gray;
+				width: 600px;
+				height: 300px;
+				text-align: center;
+				box-shadow: 0 0 15px rgba(0, 0, 0, 0.70);
+				border-bottom-left-radius:30px;
+				border-top-right-radius:30px;
+			}
+			.sty{
+				margin-top: 50px;
+				margin-left: -10px -10px;
+				padding-top: 20px;
+				border-radius: 10px;
+				text-align: center;
+				display: inline-block;
+				width: 230px;
+				height: 300px;
+				font-family: monospace;
+				font-size: 22px;
+			}
+
+			input{
+				text-align: center;
+				border-radius: 5px 5px;
+				height: 30px;
+				font-weight: bold;
+
+			}
